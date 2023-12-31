@@ -38,7 +38,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git@github.com:CoderXYZ14/DSALab.git
+    git clone git@github.com:CoderXYZ14/DSALab.git
     ```
 
 2. Navigate to the specific directory for the topic you are interested in.
